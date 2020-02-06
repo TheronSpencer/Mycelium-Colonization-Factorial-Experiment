@@ -1,1 +1,3 @@
 # mycelium-colonization-factorial-experiment
+
+The following experiment has been conducted to see what factors affect the time for mycelium to fully colonize the substrate it’s growing in. The model to assess the factors that affect colonization times is a 2^3 factorial design, where three factors, having two levels each, have been evaluated with n = 3 experimental units at each factor-level combination. The factors of interest are incubation temperature (room temperature vs 80F), vermiculite type (fine vs coarse), and water content (2:1:1.9 vs 2:1:2.1 ratios of brown rice flour, vermiculite, and water, respectively). 
